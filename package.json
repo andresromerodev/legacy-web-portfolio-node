@@ -34,7 +34,7 @@
     "figlet": "^1.5.0",
     "http-status-codes": "^1.4.0",
     "log4js": "^6.4.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "redis": "^3.1.1",
     "uuid": "^8.3.1",
     "typescript": "^3.9.7"
